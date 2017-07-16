@@ -1,2 +1,2 @@
 # alumnet
-Open source repository to track alumni. Just upload JSON you fool
+Open source repository to track alumni. Just upload JSON
